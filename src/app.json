@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#eb4450",
+    "navigationBarTitleText": "品优购",
+    "navigationBarTextStyle": "white"
+  }
+}
